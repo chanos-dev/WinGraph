@@ -1,0 +1,11 @@
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\obj\Debug\Sample.Form1.resources
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.cache
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\Chanos\Desktop\git\WinGraph\Sample\Sample\obj\Debug\Sample.Form2.resources
